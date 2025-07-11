@@ -1,0 +1,1502 @@
+text,category,source
+corrupcion,CORRUPCION,original_training
+corrupcion,CORRUPCION,original_training
+inflacion,INFLACION,original_training
+no hay trabajo y alquileres altos,TRABAJO,original_training
+la economia q no para inflacion,INFLACION,original_training
+el gobierno,POLITICA,original_training
+economico,ECONOMIA,original_training
+los politicos,POLITICA,original_training
+economico,ECONOMIA,original_training
+lo politicos,POLITICA,original_training
+Mucha gente pobre en aumento,OTROS,reclassified_otros
+milei,POLITICA,original_training
+trabajo,TRABAJO,original_training
+la desocupacion,TRABAJO,original_training
+falta de trabajo,TRABAJO,original_training
+violencia e inseguridad,INSEGURIDAD,original_training
+Corrupción,CORRUPCION,reclassified_otros
+las jubilaciones de hambre,POBREZA,original_training
+la salud,SALUD,original_training
+politicos,POLITICA,original_training
+inflacion,INFLACION,original_training
+la economia,ECONOMIA,original_training
+corrupcion,CORRUPCION,original_training
+la inseguridad,INSEGURIDAD,original_training
+falta de trabajo,TRABAJO,original_training
+devaluacion,OTROS,reclassified_otros
+No hay plan económico que incluya a todos,PODER_ADQUISITIVO,reclassified_otros
+desempleo,TRABAJO,original_training
+Los políticos,OTROS,reclassified_otros
+faltavde trabajo,TRABAJO,original_training
+la inflacion,INFLACION,original_training
+Subrn todas las cosas menos los sueldos,PODER_ADQUISITIVO,reclassified_otros
+economia,ECONOMIA,original_training
+falta de trabajo,TRABAJO,original_training
+falta de trabajo,TRABAJO,original_training
+Salarios bajos,PODER_ADQUISITIVO,reclassified_otros
+no hay plata,PODER_ADQUISITIVO,reclassified_otros
+la economia,ECONOMIA,original_training
+milei,POLITICA,original_training
+Lo económico,PODER_ADQUISITIVO,reclassified_otros
+la economia,ECONOMIA,original_training
+administracion publica,OTROS,reclassified_otros
+la economia,ECONOMIA,original_training
+Bajos salarios,PODER_ADQUISITIVO,reclassified_otros
+las decisiones politicas,POLITICA,original_training
+La corrupción,CORRUPCION,reclassified_otros
+Económico,PODER_ADQUISITIVO,reclassified_otros
+la inseguridad,INSEGURIDAD,original_training
+economia,ECONOMIA,original_training
+falta de trabajo,TRABAJO,original_training
+falta trabajo,TRABAJO,original_training
+inseguridad,INSEGURIDAD,original_training
+pobreza,POBREZA,original_training
+inseguridad,INSEGURIDAD,original_training
+politicos deshonestos,POLITICA,original_training
+Educación,CULTURA_VALORES,reclassified_otros
+la pobreza,POBREZA,original_training
+La corrupción,CORRUPCION,reclassified_otros
+la economia y la corrupcion,CORRUPCION,original_training
+NECESIDAD DE DINERO,PODER_ADQUISITIVO,reclassified_otros
+La plata,PODER_ADQUISITIVO,reclassified_otros
+corrupcion,CORRUPCION,original_training
+la inseguridad,INSEGURIDAD,original_training
+inflacion y pago de los impuestos,INFLACION,original_training
+la salud,SALUD,original_training
+los politicos corruptos,CORRUPCION,original_training
+Corrupción,CORRUPCION,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+la pobreza,POBREZA,original_training
+la corrupcion y el robo,INSEGURIDAD,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+el costo de vida,INFLACION,original_training
+el gobierno,POLITICA,original_training
+Los sueldos no alcanzan,PODER_ADQUISITIVO,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+nose,OTROS,original_training
+inflacion,INFLACION,original_training
+los gobiernos en general,POLITICA,original_training
+la corrupcion,CORRUPCION,original_training
+Educación y economía,CULTURA_VALORES,reclassified_otros
+pobreza econimia,POBREZA,original_training
+el modelo neoliberal que quieren implementar que ya quisieron hacerlo y no anduvo. los terratenientes son los,OTROS,reclassified_otros
+Económico,PODER_ADQUISITIVO,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+La economía,OTROS,reclassified_otros
+economia,ECONOMIA,original_training
+economia,ECONOMIA,original_training
+educacion,EDUCACION,original_training
+estatus social,OTROS,reclassified_otros
+trabajo,TRABAJO,original_training
+no sabe,OTROS,reclassified_otros
+Gobernantes,CORRUPCION,reclassified_otros
+la inseguridad,INSEGURIDAD,original_training
+trabajo,TRABAJO,original_training
+la inseguridad,INSEGURIDAD,original_training
+falta de trabajo,TRABAJO,original_training
+Los políticos chorros,CORRUPCION,reclassified_otros
+corrupcion,CORRUPCION,original_training
+La corrupción q hay,CORRUPCION,reclassified_otros
+Económico,PODER_ADQUISITIVO,reclassified_otros
+fals d trabajo,TRABAJO,original_training
+Corrupción,CORRUPCION,reclassified_otros
+la corrupcion,CORRUPCION,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+la inflacion,INFLACION,original_training
+Corrupción,CORRUPCION,reclassified_otros
+los chorros,CORRUPCION,reclassified_otros
+"que nos creemos mil, y no somos mil",OTROS,reclassified_otros
+las malas decisiones en materia de economia,ECONOMIA,original_training
+Aconomia,OTROS,reclassified_otros
+la mala administracion,OTROS,original_training
+La educación,CULTURA_VALORES,reclassified_otros
+el presidente corrupto,POLITICA,original_training
+economia,ECONOMIA,original_training
+el problema del pais es que no hay mucha fuente de trabajo para la gente que no se especializo,TRABAJO,original_training
+corrupcion,CORRUPCION,original_training
+Nosotros,OTROS,reclassified_otros
+Los políticos,OTROS,reclassified_otros
+Perdida de poder adquisitivo en los años anteriores (12) años,PODER_ADQUISITIVO,reclassified_otros
+la economia,ECONOMIA,original_training
+la inflacion de anos anteriores,INFLACION,original_training
+las cosas aumentam se van x las nubes,OTROS,reclassified_otros
+la pobreza,POBREZA,original_training
+el gobierno,POLITICA,original_training
+la economia,ECONOMIA,original_training
+la corrupción,CORRUPCION,reclassified_otros
+la inseguridad,INSEGURIDAD,original_training
+economico,ECONOMIA,original_training
+economia momia inflacion,ECONOMIA,original_training
+No hay plata,PODER_ADQUISITIVO,reclassified_otros
+el presidente,POLITICA,original_training
+economia,ECONOMIA,original_training
+corrupcion,CORRUPCION,original_training
+economia,ECONOMIA,original_training
+El choreo,OTROS,reclassified_otros
+la justicia,CORRUPCION,reclassified_otros
+Estabilidad económica,OTROS,reclassified_otros
+la inseguridad,INSEGURIDAD,original_training
+Que todo es por cuña,OTROS,reclassified_otros
+la falta de trabajo,TRABAJO,original_training
+la corrupcion,CORRUPCION,original_training
+desocupacion,TRABAJO,original_training
+la corrupcion,CORRUPCION,original_training
+falta de educacion y cultura del trabajo,EDUCACION,original_training
+inseguridad,INSEGURIDAD,original_training
+robos,INSEGURIDAD,original_training
+precios,INFLACION,original_training
+Economía,OTROS,reclassified_otros
+El poco control o falta de control de los organismos públicos,OTROS,reclassified_otros
+Lo económico,PODER_ADQUISITIVO,reclassified_otros
+Economía,OTROS,reclassified_otros
+el desempleo,TRABAJO,original_training
+la economia y la inseguridad,INSEGURIDAD,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+No sabe,OTROS,reclassified_otros
+economico,ECONOMIA,original_training
+corrupcion,CORRUPCION,original_training
+el desastre de los precios altos y no ganamos mada,INFLACION,original_training
+la economia y falta de trabajo,TRABAJO,original_training
+economia,ECONOMIA,original_training
+la economia,ECONOMIA,original_training
+la economia,ECONOMIA,original_training
+la corrupcion en todo ambito,CORRUPCION,original_training
+La falta de educación,CULTURA_VALORES,reclassified_otros
+la economia,ECONOMIA,original_training
+El plan económico,PODER_ADQUISITIVO,reclassified_otros
+La corrupción,CORRUPCION,reclassified_otros
+economico,ECONOMIA,original_training
+la inseguridad,INSEGURIDAD,original_training
+Los sueldos,PODER_ADQUISITIVO,reclassified_otros
+"Los sueldos bajos, y todo aumenta, los alquileres",PODER_ADQUISITIVO,reclassified_otros
+Económico,PODER_ADQUISITIVO,reclassified_otros
+Educación,CULTURA_VALORES,reclassified_otros
+Medios para obtener dinero,PODER_ADQUISITIVO,reclassified_otros
+los politicos q nos gobiernan,POLITICA,original_training
+corrupcion,CORRUPCION,original_training
+inseguridad,INSEGURIDAD,original_training
+los politicos,POLITICA,original_training
+La corrupción,CORRUPCION,reclassified_otros
+bajos salarios,OTROS,original_training
+el trabajo,TRABAJO,original_training
+Se han perdido los valores y la educación,CULTURA_VALORES,reclassified_otros
+la economia,ECONOMIA,original_training
+la inflacion,INFLACION,original_training
+La justicia,CORRUPCION,reclassified_otros
+economia,ECONOMIA,original_training
+La información,CULTURA_VALORES,reclassified_otros
+inflacion,INFLACION,original_training
+El aumento del dolar,OTROS,reclassified_otros
+No cumplir con lo que prometen,OTROS,reclassified_otros
+Los políticos que siguen robando,CORRUPCION,reclassified_otros
+el manejo de los gobiernos,POLITICA,original_training
+inseguridad,INSEGURIDAD,original_training
+Los vagos,CORRUPCION,reclassified_otros
+los politicos,POLITICA,original_training
+los politicos,POLITICA,original_training
+Falta de plata,PODER_ADQUISITIVO,reclassified_otros
+Economía,OTROS,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+economia corrupcion,ECONOMIA,original_training
+economico,ECONOMIA,original_training
+demasiados ñoquis,OTROS,reclassified_otros
+el presidente,POLITICA,original_training
+inseguridad,INSEGURIDAD,original_training
+la inseguridad,INSEGURIDAD,original_training
+Impuestos,CORRUPCION,reclassified_otros
+la economia,ECONOMIA,original_training
+Inversiones a países,OTROS,reclassified_otros
+falta de empleo,TRABAJO,original_training
+los politicos,POLITICA,original_training
+desocupacion,TRABAJO,original_training
+mucha delinciencia despidos sin rabajo precios muy altos la plata no alcanza,INFLACION,original_training
+La inflación,OTROS,reclassified_otros
+la desocupacion,TRABAJO,original_training
+Corrupción,CORRUPCION,reclassified_otros
+no  hay valores,CULTURA_VALORES,reclassified_otros
+la politica,POLITICA,original_training
+la corrupcion,CORRUPCION,original_training
+Droga,OTROS,reclassified_otros
+los politicos que se roban todo,POLITICA,original_training
+economia,ECONOMIA,original_training
+corrupcion,CORRUPCION,original_training
+la educacion,EDUCACION,original_training
+el desempleo,TRABAJO,original_training
+La corrupción,CORRUPCION,reclassified_otros
+La educación,CULTURA_VALORES,reclassified_otros
+la inflacion,INFLACION,original_training
+la inseguridad,INSEGURIDAD,original_training
+los politicos,POLITICA,original_training
+inflacion,INFLACION,original_training
+economia,ECONOMIA,original_training
+la inflacion,INFLACION,original_training
+seguridad,INSEGURIDAD,original_training
+seguridad,INSEGURIDAD,original_training
+falta de trabajo,TRABAJO,original_training
+La corrupción,CORRUPCION,reclassified_otros
+desigualdad economica,OTROS,original_training
+la inflacion,INFLACION,original_training
+Corrupción,CORRUPCION,reclassified_otros
+Economía,OTROS,reclassified_otros
+mas seguridad,INSEGURIDAD,original_training
+La inflación,OTROS,reclassified_otros
+Económico,PODER_ADQUISITIVO,reclassified_otros
+inflacion,INFLACION,original_training
+inseguridad,INSEGURIDAD,original_training
+falta de trabajo,TRABAJO,original_training
+esto viene de los anos de robo que sufirmos,INSEGURIDAD,original_training
+inflacion,INFLACION,original_training
+el presidente,POLITICA,original_training
+aumento de precios,INFLACION,original_training
+los politicos,POLITICA,original_training
+aumento de precios,INFLACION,original_training
+el presidente,POLITICA,original_training
+No inversión en educación,CULTURA_VALORES,reclassified_otros
+desempleo,TRABAJO,original_training
+aumento la pobreza,POBREZA,original_training
+la principal problematica del pais son las deudas,OTROS,reclassified_otros
+la locura que se paga de impuestos,CORRUPCION,reclassified_otros
+los partidos politicos de capital,POLITICA,original_training
+Que se roban todo los políticos,CORRUPCION,reclassified_otros
+Los gobernantes,CORRUPCION,reclassified_otros
+corrupcion falta de justicia educacion,CORRUPCION,original_training
+Educación,CULTURA_VALORES,reclassified_otros
+la falta de trabajo,TRABAJO,original_training
+los politicos,POLITICA,original_training
+el aumento de los precios,INFLACION,original_training
+La resecion,OTROS,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+economia,ECONOMIA,original_training
+El sueldo de los trabajadores,OTROS,reclassified_otros
+La crisis económica,OTROS,reclassified_otros
+salud,SALUD,original_training
+La inflación,OTROS,reclassified_otros
+la economia,ECONOMIA,original_training
+la corrupcion,CORRUPCION,original_training
+la inseguridad,INSEGURIDAD,original_training
+inflacion,INFLACION,original_training
+la falta de confianza,OTROS,original_training
+los precios todo sube,INFLACION,original_training
+la delincuencia,INSEGURIDAD,original_training
+los politicos,POLITICA,original_training
+economia,ECONOMIA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+el estudio la salida laboral y la inflacion,INFLACION,original_training
+inseguridad,INSEGURIDAD,original_training
+los politicos,POLITICA,original_training
+que aumentan las cosas y el salarios de los trabajadores como docentes necesitan aumentos,PODER_ADQUISITIVO,reclassified_otros
+La educación,CULTURA_VALORES,reclassified_otros
+pobrezs desocupacion,TRABAJO,original_training
+la economia x laninflacion,INFLACION,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+La corrupción,CORRUPCION,reclassified_otros
+economia,ECONOMIA,original_training
+los politicos que no cumplen con los que prometen en campana,POLITICA,original_training
+La corrupción,CORRUPCION,reclassified_otros
+los que gobiernan,OTROS,original_training
+economia,ECONOMIA,original_training
+la economia,ECONOMIA,original_training
+No alcanza el dinero,PODER_ADQUISITIVO,reclassified_otros
+la politica,POLITICA,original_training
+politicos,POLITICA,original_training
+salud,SALUD,original_training
+inseguridad,INSEGURIDAD,original_training
+La dirigencia,OTROS,reclassified_otros
+economia,ECONOMIA,original_training
+inseguridad,INSEGURIDAD,original_training
+Educación,CULTURA_VALORES,reclassified_otros
+economico,ECONOMIA,original_training
+corrupcion,CORRUPCION,original_training
+creo que no alcanza el dinero el salario,PODER_ADQUISITIVO,reclassified_otros
+Economía.Corrupción,CORRUPCION,reclassified_otros
+la economia,ECONOMIA,original_training
+las politicas empleadas por quienes gobiernan,POLITICA,original_training
+falta de trabajo,TRABAJO,original_training
+inseguridad,INSEGURIDAD,original_training
+la educacion,EDUCACION,original_training
+crear fuentes de trabajo,TRABAJO,original_training
+los politicos corruptos que confunden a la gente con discursos falsos todo eso la casta que dan verguenza ajena,POLITICA,original_training
+la corrupcion,CORRUPCION,original_training
+seguridad,INSEGURIDAD,original_training
+la inseguridad la economia cultural,INSEGURIDAD,original_training
+salud,SALUD,original_training
+Corrupción... Falta de xontrol,CORRUPCION,reclassified_otros
+Economía,OTROS,reclassified_otros
+falta de trabajo inseguridad,INSEGURIDAD,original_training
+el empleo,TRABAJO,original_training
+la economia,ECONOMIA,original_training
+el gobierno,POLITICA,original_training
+la corrupcion,CORRUPCION,original_training
+inflacion,INFLACION,original_training
+inseguridad,INSEGURIDAD,original_training
+economia,ECONOMIA,original_training
+economia,ECONOMIA,original_training
+pobreza,POBREZA,original_training
+Falta de educación,CULTURA_VALORES,reclassified_otros
+Los peronistas,OTROS,reclassified_otros
+Economía,OTROS,reclassified_otros
+la mala administracion en tema seguridad no hay igualdad,INSEGURIDAD,original_training
+La falta de dinero,PODER_ADQUISITIVO,reclassified_otros
+educacion,EDUCACION,original_training
+milei,POLITICA,original_training
+inflacion,INFLACION,original_training
+la corrupcion de los kircheneristas,CORRUPCION,original_training
+el presidente,POLITICA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+la delincuencia,INSEGURIDAD,original_training
+los politicos,POLITICA,original_training
+no hay un plan social,OTROS,original_training
+La economía,OTROS,reclassified_otros
+la politica economica,POLITICA,original_training
+Los gobernantes y sus mentiras,CORRUPCION,reclassified_otros
+no hay trabajo,TRABAJO,original_training
+Salarios bajos,PODER_ADQUISITIVO,reclassified_otros
+inseguridad y economia,INSEGURIDAD,original_training
+corrupcion,CORRUPCION,original_training
+la corrupcion,CORRUPCION,original_training
+Ajuste sobre los que menos tienen,OTROS,reclassified_otros
+Economía,OTROS,reclassified_otros
+Nose,OTROS,reclassified_otros
+recortes a la educacion,EDUCACION,original_training
+casta,OTROS,original_training
+los salarios,PODER_ADQUISITIVO,reclassified_otros
+es que se estabilice el precio de los productos ya que el dolar baja,OTROS,original_training
+Falta de inverciones,OTROS,reclassified_otros
+delincuencia,INSEGURIDAD,original_training
+el desempleo,TRABAJO,original_training
+los sueldos de los jubilados y la pobreza,POBREZA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+la inflacion,INFLACION,original_training
+la corrupcion del gobierno actual,POLITICA,original_training
+economia,ECONOMIA,original_training
+el presidente esta desquiciado,POLITICA,original_training
+economia,ECONOMIA,original_training
+corrupcion delincuencia,INSEGURIDAD,original_training
+la economia,ECONOMIA,original_training
+la corrupcion,CORRUPCION,original_training
+corrupcion,CORRUPCION,original_training
+Corrupción,CORRUPCION,reclassified_otros
+la corrupcion,CORRUPCION,original_training
+desocupacion,TRABAJO,original_training
+la inseguridad,INSEGURIDAD,original_training
+la inseguridad,INSEGURIDAD,original_training
+Corrupción,CORRUPCION,reclassified_otros
+Cultural e ideológico,CULTURA_VALORES,reclassified_otros
+los precios altos bajos sueldos,INFLACION,original_training
+"Sueldos bajos,",PODER_ADQUISITIVO,reclassified_otros
+La educación,CULTURA_VALORES,reclassified_otros
+La inflación,OTROS,reclassified_otros
+pobreza,POBREZA,original_training
+la economia,ECONOMIA,original_training
+precios altos,INFLACION,original_training
+seguridad,INSEGURIDAD,original_training
+la falta de trabajo,TRABAJO,original_training
+Corrupción,CORRUPCION,reclassified_otros
+economico,ECONOMIA,original_training
+falta seguridad y mantener la economia incluidos los temas de los servicios que aumentan,INSEGURIDAD,original_training
+inseguridad,INSEGURIDAD,original_training
+rutas la economia e inseguridad,INSEGURIDAD,original_training
+seguridad,INSEGURIDAD,original_training
+economia,ECONOMIA,original_training
+seguridad,INSEGURIDAD,original_training
+Muchos,OTROS,reclassified_otros
+falta de trabajo,TRABAJO,original_training
+salud trabajo,TRABAJO,original_training
+desocupacion,TRABAJO,original_training
+economia,ECONOMIA,original_training
+la corrupcion,CORRUPCION,original_training
+la economia,ECONOMIA,original_training
+corrupcion,CORRUPCION,original_training
+inseguridad,INSEGURIDAD,original_training
+el presidente,POLITICA,original_training
+economico,ECONOMIA,original_training
+corrupcion,CORRUPCION,original_training
+politicos corruptos,POLITICA,original_training
+los sueldos que no aumentan,PODER_ADQUISITIVO,reclassified_otros
+milei,POLITICA,original_training
+inseguridad,INSEGURIDAD,original_training
+la educacion,EDUCACION,original_training
+los sindicatos son el mayor problema y la descultura del trabajo,TRABAJO,original_training
+los corruptos,CORRUPCION,original_training
+La plata no alcanza,PODER_ADQUISITIVO,reclassified_otros
+la economia y la inflacion,INFLACION,original_training
+La inflación pero vamos a mejorar en algún momento es un país rico y productivo,OTROS,reclassified_otros
+la inflacion y los bajos sueldos,INFLACION,original_training
+la falta de trabajo,TRABAJO,original_training
+la inseguridad,INSEGURIDAD,original_training
+La corrupción,CORRUPCION,reclassified_otros
+la inestabilidad laboral y la inflamacion de comes,TRABAJO,original_training
+la falta de regularidad economica,OTROS,original_training
+inseguridad,INSEGURIDAD,original_training
+economia,ECONOMIA,original_training
+economia,ECONOMIA,original_training
+el gobierno que tenemos,POLITICA,original_training
+La corrupción,CORRUPCION,reclassified_otros
+"la mala ad.inistracion de recursos naturales, ño que lleva a que se desaproveches y no se impulse un desarrollo económico en base a la materia prima",PODER_ADQUISITIVO,reclassified_otros
+la mala getion politica,POLITICA,original_training
+precios altos,INFLACION,original_training
+economia mucha inflacion,ECONOMIA,original_training
+economia,ECONOMIA,original_training
+educacion,EDUCACION,original_training
+no sabe,OTROS,reclassified_otros
+Bajo sueldos,PODER_ADQUISITIVO,reclassified_otros
+corrupcion,CORRUPCION,original_training
+Inflación,OTROS,reclassified_otros
+"Económico, social",PODER_ADQUISITIVO,reclassified_otros
+el presidente actual,POLITICA,original_training
+La sociedad que no está acostumbrado a trabajar,OTROS,reclassified_otros
+Grieta,OTROS,reclassified_otros
+salud educacion,EDUCACION,original_training
+pobreza,POBREZA,original_training
+sueldos bajos,PODER_ADQUISITIVO,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+sueldos que no alcanzan,PODER_ADQUISITIVO,reclassified_otros
+falta de trabajo,TRABAJO,original_training
+las politicas del presidente no estan funcionando,POLITICA,original_training
+Corrupción política,CORRUPCION,reclassified_otros
+la economia,ECONOMIA,original_training
+Corrupción,CORRUPCION,reclassified_otros
+Cultural temas,CULTURA_VALORES,reclassified_otros
+trabajo,TRABAJO,original_training
+La plata no alcanza,PODER_ADQUISITIVO,reclassified_otros
+inflacion,INFLACION,original_training
+seguridad,INSEGURIDAD,original_training
+la inflacion,INFLACION,original_training
+la pobreza el peso no sirve,POBREZA,original_training
+La corrupción,CORRUPCION,reclassified_otros
+corrupcion,CORRUPCION,original_training
+la pobreza,POBREZA,original_training
+educacion,EDUCACION,original_training
+la corrupcion,CORRUPCION,original_training
+que haya planes de trabajo areglos de calle,TRABAJO,original_training
+la pobreza,POBREZA,original_training
+el cansancio,OTROS,original_training
+la inseguridad,INSEGURIDAD,original_training
+Economía,OTROS,reclassified_otros
+Econ,OTROS,reclassified_otros
+corruptos,CORRUPCION,original_training
+los precios la inflacion,INFLACION,original_training
+Pocas oportunidades para los jóvenes,OTROS,reclassified_otros
+los politicos,POLITICA,original_training
+La plata,PODER_ADQUISITIVO,reclassified_otros
+la corrupcion,CORRUPCION,original_training
+el presidente,POLITICA,original_training
+la falta de educacion financiera y los socialistas,EDUCACION,original_training
+El atraso de los sueldos comparados con la inflación,PODER_ADQUISITIVO,reclassified_otros
+los salimos y sueldos,OTROS,original_training
+La situacion económica insostenible,OTROS,reclassified_otros
+pobreza,POBREZA,original_training
+trabajo falta,TRABAJO,original_training
+la crisis economica laboral,TRABAJO,original_training
+la economia,ECONOMIA,original_training
+La información falsa,CULTURA_VALORES,reclassified_otros
+politicos,POLITICA,original_training
+Corrupción,CORRUPCION,reclassified_otros
+la inseguridad,INSEGURIDAD,original_training
+El código penal,OTROS,reclassified_otros
+la economia,ECONOMIA,original_training
+corrupcion,CORRUPCION,original_training
+la economia,ECONOMIA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+falta de trabajo,TRABAJO,original_training
+Corrupción,CORRUPCION,reclassified_otros
+La educación,CULTURA_VALORES,reclassified_otros
+Sistema económico,PODER_ADQUISITIVO,reclassified_otros
+economico salarios,ECONOMIA,original_training
+falta de trabajo,TRABAJO,original_training
+No se,OTROS,reclassified_otros
+la inflacion,INFLACION,original_training
+trabajo,TRABAJO,original_training
+el hambre de la gente,POBREZA,original_training
+economia,ECONOMIA,original_training
+pobreza,POBREZA,original_training
+La justicia,CORRUPCION,reclassified_otros
+falta de trabajo,TRABAJO,original_training
+que los politicos se preocupan solo por sus ingresos,POLITICA,original_training
+los partidos politicos y la corrupcion,CORRUPCION,original_training
+la economia,ECONOMIA,original_training
+la economia,ECONOMIA,original_training
+la inflacion,INFLACION,original_training
+La falta de Educación,CULTURA_VALORES,reclassified_otros
+economia,ECONOMIA,original_training
+La corrupción,CORRUPCION,reclassified_otros
+los politicos,POLITICA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+No proteger todos los recursos,OTROS,reclassified_otros
+las mmalas gestiones politicas,POLITICA,original_training
+La economía,OTROS,reclassified_otros
+economico economico,ECONOMIA,original_training
+desempleo,TRABAJO,original_training
+pobreza,POBREZA,original_training
+Los políticos corrupción no saben manejar el pais,CORRUPCION,reclassified_otros
+la inseguridad,INSEGURIDAD,original_training
+educacion,EDUCACION,original_training
+la pobreza,POBREZA,original_training
+la corrupcion de los politicos el estado elefanti,CORRUPCION,original_training
+inflacion,INFLACION,original_training
+no sabe,OTROS,reclassified_otros
+Falta de dinero,PODER_ADQUISITIVO,reclassified_otros
+La corrupción,CORRUPCION,reclassified_otros
+corrupción,CORRUPCION,reclassified_otros
+el empleo informal,TRABAJO,original_training
+economia,ECONOMIA,original_training
+economia,ECONOMIA,original_training
+javier milei,POLITICA,original_training
+economia,ECONOMIA,original_training
+los aumentos de precios,INFLACION,original_training
+el trabajo,TRABAJO,original_training
+laboral,TRABAJO,original_training
+Los gobernantes,CORRUPCION,reclassified_otros
+No aumentan los sueldos,PODER_ADQUISITIVO,reclassified_otros
+economia,ECONOMIA,original_training
+los jubilados,OTROS,original_training
+falta de educación financiera,CULTURA_VALORES,reclassified_otros
+seguridad,INSEGURIDAD,original_training
+La plata no alcanza,PODER_ADQUISITIVO,reclassified_otros
+Todos roban,CORRUPCION,reclassified_otros
+bajar precios la salud y educacion tambien falta de trabajo,TRABAJO,original_training
+la educacion,EDUCACION,original_training
+la economia,ECONOMIA,original_training
+inflacion,INFLACION,original_training
+la violencia,INSEGURIDAD,original_training
+inseguridad,INSEGURIDAD,original_training
+Economía,OTROS,reclassified_otros
+la corrupcion del gobierno,POLITICA,original_training
+presidente,POLITICA,original_training
+La plata no sirve,PODER_ADQUISITIVO,reclassified_otros
+economia,ECONOMIA,original_training
+la corrupcion,CORRUPCION,original_training
+la economia,ECONOMIA,original_training
+falta de trabajo en blanco,TRABAJO,original_training
+los sueldos bajos,PODER_ADQUISITIVO,reclassified_otros
+La vagancia,OTROS,reclassified_otros
+La economía y la corrupción de quienes gobiernan,CORRUPCION,reclassified_otros
+el presidente,POLITICA,original_training
+el gobierno,POLITICA,original_training
+economico,ECONOMIA,original_training
+economico cultural,ECONOMIA,original_training
+la pobreza,POBREZA,original_training
+el nuevo gobierno,POLITICA,original_training
+La gente no le da tiempo a los gobernantes nuevos de que gobiernen,CORRUPCION,reclassified_otros
+la corrupcion,CORRUPCION,original_training
+la economia,ECONOMIA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+Los impuestos altos,CORRUPCION,reclassified_otros
+la economia y trabajo,TRABAJO,original_training
+La inflación,OTROS,reclassified_otros
+Los políticos,OTROS,reclassified_otros
+milei,POLITICA,original_training
+el gobierno que miente,POLITICA,original_training
+la economia,ECONOMIA,original_training
+los politicos corruptos,CORRUPCION,original_training
+No vale la plata,PODER_ADQUISITIVO,reclassified_otros
+falta de trabajo fabricas industrias,TRABAJO,original_training
+inseguridad,INSEGURIDAD,original_training
+inseguridad,INSEGURIDAD,original_training
+falta de trabajo,TRABAJO,original_training
+desempleo,TRABAJO,original_training
+pobreza,POBREZA,original_training
+la educacion,EDUCACION,original_training
+lo economico,ECONOMIA,original_training
+la corrupcion,CORRUPCION,original_training
+inseguridad,INSEGURIDAD,original_training
+el presidente,POLITICA,original_training
+la inflacion,INFLACION,original_training
+subir los sueldos y parar las cosas que no suban,PODER_ADQUISITIVO,reclassified_otros
+la droga los politicos,POLITICA,original_training
+No,OTROS,reclassified_otros
+economia todo caro,ECONOMIA,original_training
+falta de trabajo,TRABAJO,original_training
+la corrupcion la inflacion,INFLACION,original_training
+Sueldos bajos,PODER_ADQUISITIVO,reclassified_otros
+inflacion dolar,INFLACION,original_training
+pobreza,POBREZA,original_training
+los ñoquis,OTROS,reclassified_otros
+la pobreza,POBREZA,original_training
+Economía,OTROS,reclassified_otros
+corrupcion,CORRUPCION,original_training
+los politicos no ha en nada para mejorar albo,POLITICA,original_training
+economia e inseguridad,INSEGURIDAD,original_training
+el presidente,POLITICA,original_training
+Corrupción,CORRUPCION,reclassified_otros
+seguridad,INSEGURIDAD,original_training
+la corrupcion,CORRUPCION,original_training
+educacion,EDUCACION,original_training
+el gobierno actual,POLITICA,original_training
+inflacion,INFLACION,original_training
+economia,ECONOMIA,original_training
+la suba obscena de precios,INFLACION,original_training
+corrupcion,CORRUPCION,original_training
+el presidente,POLITICA,original_training
+La economía,OTROS,reclassified_otros
+seguridad,INSEGURIDAD,original_training
+"Hay demaciada desinformación, quizás si se enseña más transparentes las cosas y siendo más claro, recalcando lo que se va a hacer, la gente no sería tan mediocre",CULTURA_VALORES,reclassified_otros
+Bajos salarios,PODER_ADQUISITIVO,reclassified_otros
+el gobierno nacional,POLITICA,original_training
+Es un buen tipo mi viejo....,OTROS,reclassified_otros
+Salario bajos preciosaltos,PODER_ADQUISITIVO,reclassified_otros
+la pobreza,POBREZA,original_training
+malas gestiones,POLITICA,original_training
+gasto incontrolable de los gobiernos anteriores,SERVICIOS,original_training
+la politica,POLITICA,original_training
+la pobreza,POBREZA,original_training
+falta de trabajo,TRABAJO,original_training
+pobreza,POBREZA,original_training
+economia,ECONOMIA,original_training
+EL  MAL MANEJO ECONÓMICO,PODER_ADQUISITIVO,reclassified_otros
+el trabajo,TRABAJO,original_training
+la inseguridad,INSEGURIDAD,original_training
+economico,ECONOMIA,original_training
+desiciones del presidente,POLITICA,original_training
+milei,POLITICA,original_training
+politicos q robaron,POLITICA,original_training
+falta de trabajo,TRABAJO,original_training
+los politicos,POLITICA,original_training
+Inflación,OTROS,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+la falta de trabajo,TRABAJO,original_training
+Sueldos públicos bajoS,PODER_ADQUISITIVO,reclassified_otros
+Economía,OTROS,reclassified_otros
+Económico,PODER_ADQUISITIVO,reclassified_otros
+Corrupción,CORRUPCION,reclassified_otros
+la economia,ECONOMIA,original_training
+La economía bajos recursos .que no alcanza,PODER_ADQUISITIVO,reclassified_otros
+injusticia,CORRUPCION,reclassified_otros
+Los bajos salarios,PODER_ADQUISITIVO,reclassified_otros
+la derecha y los pelotudos que la votan,OTROS,original_training
+inflacion desempleo ajuste a los jubilados obreros,INFLACION,original_training
+falta de trabajo,TRABAJO,original_training
+salarios atrasados,PODER_ADQUISITIVO,reclassified_otros
+las entregas de las riquezas al extranjero,SERVICIOS,original_training
+que no bajan los precios,INFLACION,original_training
+Todo los días sube,OTROS,reclassified_otros
+falta de trabajo,TRABAJO,original_training
+lo economico,ECONOMIA,original_training
+drogas e inseguridad,INSEGURIDAD,original_training
+delicuencia,OTROS,reclassified_otros
+pobreza,POBREZA,original_training
+la inseguridad y violencia,INSEGURIDAD,original_training
+el presidente,POLITICA,original_training
+mucha pobreza,POBREZA,original_training
+falta de trabajo,TRABAJO,original_training
+la educacion,EDUCACION,original_training
+no hay cambios,OTROS,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+el gobierno,POLITICA,original_training
+la inseguridad y las drogas,SERVICIOS,original_training
+la falta de educacion y la corrupcion,CORRUPCION,original_training
+economico,ECONOMIA,original_training
+la plata y la plata de trabajo,TRABAJO,original_training
+los impuesto luz y salud,SALUD,original_training
+desocupacion,TRABAJO,original_training
+presidente,POLITICA,original_training
+economico,ECONOMIA,original_training
+economia desempleo,TRABAJO,original_training
+La corrupción,CORRUPCION,reclassified_otros
+Educación,CULTURA_VALORES,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+Las malas administración  exeso de empleados públi,OTROS,reclassified_otros
+La corrupción,CORRUPCION,reclassified_otros
+los politicos,POLITICA,original_training
+inflacion,INFLACION,original_training
+la delincuencia,INSEGURIDAD,original_training
+el precio de las cosas,OTROS,original_training
+La educación,CULTURA_VALORES,reclassified_otros
+Incompetencia de los políticos,OTROS,reclassified_otros
+pobreza,POBREZA,original_training
+No alcanza el dinero,PODER_ADQUISITIVO,reclassified_otros
+La plata,PODER_ADQUISITIVO,reclassified_otros
+el aumento de precios,INFLACION,original_training
+económica,OTROS,reclassified_otros
+los politicos,POLITICA,original_training
+la salud,SALUD,original_training
+falta de medicamentos y trabajo,TRABAJO,original_training
+politicos,POLITICA,original_training
+la educacion,EDUCACION,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+la economia,ECONOMIA,original_training
+economico,ECONOMIA,original_training
+suba de precios,INFLACION,original_training
+economia,ECONOMIA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+falta trabajo en blanco,TRABAJO,original_training
+la pobreza,POBREZA,original_training
+trabajo y conciencia con los que mas necesitan ju,TRABAJO,original_training
+la corrupcion,CORRUPCION,original_training
+la inflacion,INFLACION,original_training
+Gobernantes que no piensan en los jubilados,CORRUPCION,reclassified_otros
+inflacion,INFLACION,original_training
+descontrol en precios,INFLACION,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+la economia,ECONOMIA,original_training
+los intereses en el afuera y no adentro,OTROS,reclassified_otros
+la falta de trabajo el dinero no alcanza y siguen subiendo todo asta cuando vamos a seguir asi,TRABAJO,original_training
+abuso de los comerciantes aumentan por el dolar y despues no bajan,OTROS,original_training
+educacion,EDUCACION,original_training
+inseguridad,INSEGURIDAD,original_training
+inseguridad,INSEGURIDAD,original_training
+la pobreza,POBREZA,original_training
+la falta de trabajo,TRABAJO,original_training
+la grieta,OTROS,original_training
+este gobierno,POLITICA,original_training
+la economia los trabajos pagan poco lo que gano lo gasto en comida,TRABAJO,original_training
+Los planes,OTROS,reclassified_otros
+los politico,OTROS,original_training
+los politicos,POLITICA,original_training
+Todos roban,CORRUPCION,reclassified_otros
+pobreza,POBREZA,original_training
+la pobreza,POBREZA,original_training
+Educación,CULTURA_VALORES,reclassified_otros
+la inseguridad,INSEGURIDAD,original_training
+La economía,OTROS,reclassified_otros
+inflacion,INFLACION,original_training
+presidente,POLITICA,original_training
+inseguridad,INSEGURIDAD,original_training
+la inseguridad,INSEGURIDAD,original_training
+falta de trabajo,TRABAJO,original_training
+muchos gasto publico,SERVICIOS,original_training
+no hay trabajo,TRABAJO,original_training
+Económico Económico,PODER_ADQUISITIVO,reclassified_otros
+la inflacion,INFLACION,original_training
+Los jubilados,OTROS,reclassified_otros
+Educación,CULTURA_VALORES,reclassified_otros
+economia,ECONOMIA,original_training
+la pobreza,POBREZA,original_training
+educacion,EDUCACION,original_training
+desempleo,TRABAJO,original_training
+la indiferencia y la violencia,INSEGURIDAD,original_training
+Educación,CULTURA_VALORES,reclassified_otros
+Económico,PODER_ADQUISITIVO,reclassified_otros
+la gente con hambre,POBREZA,original_training
+la economia,ECONOMIA,original_training
+la ineficiencia politica,POLITICA,original_training
+La plata no vale nada,PODER_ADQUISITIVO,reclassified_otros
+inseg,OTROS,original_training
+Despilfarro de plata,PODER_ADQUISITIVO,reclassified_otros
+el presidente,POLITICA,original_training
+La inflación,OTROS,reclassified_otros
+inflacion,INFLACION,original_training
+los politicos corruptos,CORRUPCION,original_training
+La corrupción,CORRUPCION,reclassified_otros
+delincuencia,INSEGURIDAD,original_training
+la economia no hay trabajo,TRABAJO,original_training
+la inseguridad,INSEGURIDAD,original_training
+la economia,ECONOMIA,original_training
+corrupcion,CORRUPCION,original_training
+el presidente que se tiene que ir,POLITICA,original_training
+Economía,OTROS,reclassified_otros
+el robo,INSEGURIDAD,original_training
+inseguridad,INSEGURIDAD,original_training
+Los políticos que mienten y sacan todo a su favor y no del pueblo,OTROS,reclassified_otros
+salud seguridad,INSEGURIDAD,original_training
+la inseguridad,INSEGURIDAD,original_training
+inseguridad,INSEGURIDAD,original_training
+La política,OTROS,reclassified_otros
+La economía,OTROS,reclassified_otros
+el peronismo,OTROS,reclassified_otros
+el presidente,POLITICA,original_training
+Que no alcanza la plata,PODER_ADQUISITIVO,reclassified_otros
+falta de trabajo y exceso planes,TRABAJO,original_training
+inseguridad,INSEGURIDAD,original_training
+Economía,OTROS,reclassified_otros
+falta de trabajo,TRABAJO,original_training
+Corrupción,CORRUPCION,reclassified_otros
+Se ve mucha deficiencia en la educación,CULTURA_VALORES,reclassified_otros
+Bajos salarios,PODER_ADQUISITIVO,reclassified_otros
+mal manejo de la economia,ECONOMIA,original_training
+la inseguridad,INSEGURIDAD,original_training
+economia,ECONOMIA,original_training
+la corrupcion del pero kishnerismo y todo su accionar desde juan domingo hasta hoy,CORRUPCION,original_training
+la inflacion,INFLACION,original_training
+Los sueldos bajos,PODER_ADQUISITIVO,reclassified_otros
+Corrupción,CORRUPCION,reclassified_otros
+costo de servicios bajos salarios,SERVICIOS,original_training
+Los políticos reorientar justicia,CORRUPCION,reclassified_otros
+la economia el desempleo,TRABAJO,original_training
+Aumentos sin control y los sueldos quietos,PODER_ADQUISITIVO,reclassified_otros
+falta de trabajo,TRABAJO,original_training
+la inseguridad,INSEGURIDAD,original_training
+corrupcion,CORRUPCION,original_training
+no hay trabajo,TRABAJO,original_training
+La economía,OTROS,reclassified_otros
+que no dejan gobernar,OTROS,original_training
+Corrupción,CORRUPCION,reclassified_otros
+seguridad,INSEGURIDAD,original_training
+Economía,OTROS,reclassified_otros
+El salario que es bajo,PODER_ADQUISITIVO,reclassified_otros
+falta de seguridad,INSEGURIDAD,original_training
+las rutas la pobreza,POBREZA,original_training
+Economía,OTROS,reclassified_otros
+Corrupción,CORRUPCION,reclassified_otros
+Salarios bajos y vida cara,PODER_ADQUISITIVO,reclassified_otros
+la inseguridad,INSEGURIDAD,original_training
+La economía y la corrupción,CORRUPCION,reclassified_otros
+Corrupción en la política,CORRUPCION,reclassified_otros
+el gobierno de milei,POLITICA,original_training
+No alcanza la plata,PODER_ADQUISITIVO,reclassified_otros
+control de precios y especulacion empresarial,INFLACION,original_training
+Dolar,OTROS,reclassified_otros
+fuentes de trabajo,TRABAJO,original_training
+la economia,ECONOMIA,original_training
+el poco control o falta de control de los organismos publicos,OTROS,original_training
+economia,ECONOMIA,original_training
+corrupcion politica,CORRUPCION,original_training
+la falta de empatia y la asignacion de recursos en diferentes aspectos falta de estudios de trabajo que no contraten a la gente por falta de experiencias en distintos rubros,TRABAJO,original_training
+el presidente,POLITICA,original_training
+inflacion,INFLACION,original_training
+La economía,OTROS,reclassified_otros
+los politicos corruptos,CORRUPCION,original_training
+economico,ECONOMIA,original_training
+Que roban todos,CORRUPCION,reclassified_otros
+Corrupción,CORRUPCION,reclassified_otros
+economico,ECONOMIA,original_training
+seguridd,OTROS,reclassified_otros
+la economia,ECONOMIA,original_training
+no hay trabajo,TRABAJO,original_training
+no hay generacion de empleo,TRABAJO,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+la salud publica,SALUD,original_training
+desempleo,TRABAJO,original_training
+oportunidades laborales con buen sueldo,TRABAJO,original_training
+inseguridad,INSEGURIDAD,original_training
+falta de control,OTROS,original_training
+dar la asignacion universal por hijo y la tarjeta alimentar para cualquiera,OTROS,original_training
+educacion,EDUCACION,original_training
+La corrupción,CORRUPCION,reclassified_otros
+la economia,ECONOMIA,original_training
+la inseguridad,INSEGURIDAD,original_training
+la inflacion,INFLACION,original_training
+no avanza la educacion y salud,SALUD,original_training
+corrupcion,CORRUPCION,original_training
+los politicos,POLITICA,original_training
+inseguridad,INSEGURIDAD,original_training
+los politicos,POLITICA,original_training
+defisi fiscal que quedo,OTROS,original_training
+la educacion,EDUCACION,original_training
+el atropello a todas las leyes y la pobreza,POBREZA,original_training
+La ignorancia es el precio que pagamos a si nos us,CULTURA_VALORES,reclassified_otros
+trabajo,TRABAJO,original_training
+La oposicion,OTROS,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+los precios altos,INFLACION,original_training
+economia,ECONOMIA,original_training
+economia,ECONOMIA,original_training
+los politicos,POLITICA,original_training
+falta de trabajo y estabilidad economica,TRABAJO,original_training
+Políticos que se cagan en la gente,OTROS,reclassified_otros
+economia,ECONOMIA,original_training
+inflacion,INFLACION,original_training
+los politicos,POLITICA,original_training
+mala distribucion de la riqueza,OTROS,reclassified_otros
+ajuste economico,ECONOMIA,original_training
+seguridad,INSEGURIDAD,original_training
+robos,INSEGURIDAD,original_training
+no sabe,OTROS,reclassified_otros
+Económico,PODER_ADQUISITIVO,reclassified_otros
+los politicos,POLITICA,original_training
+inseguridad,INSEGURIDAD,original_training
+Economía,OTROS,reclassified_otros
+los politicos,POLITICA,original_training
+la corrupcion que hubo de gobiernos anterioros,POLITICA,original_training
+Los políticos,OTROS,reclassified_otros
+la gran inflacion y los sueldos mas bajos del pais,INFLACION,original_training
+La inflación,OTROS,reclassified_otros
+el costo de vida alto,INFLACION,original_training
+corrupcion,CORRUPCION,original_training
+demasiada carga en empleados publicos y demasiado impuestos,CORRUPCION,reclassified_otros
+los gobiernos entran para robar y no para gobernar,POLITICA,original_training
+inseguridad,INSEGURIDAD,original_training
+el gobierno nacional,POLITICA,original_training
+los impuestos altos,CORRUPCION,reclassified_otros
+falta de plata,PODER_ADQUISITIVO,reclassified_otros
+los salarios,PODER_ADQUISITIVO,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+devastado de antes,OTROS,reclassified_otros
+La educación,CULTURA_VALORES,reclassified_otros
+la falta de trabajo,TRABAJO,original_training
+seguridad,INSEGURIDAD,original_training
+la economia,ECONOMIA,original_training
+elpresidente,POLITICA,original_training
+inseguridad,INSEGURIDAD,original_training
+inflacion,INFLACION,original_training
+inseguridad,INSEGURIDAD,original_training
+corrupcion,CORRUPCION,original_training
+Corrupción,CORRUPCION,reclassified_otros
+Lavado de dinero,PODER_ADQUISITIVO,reclassified_otros
+"La inflación, todo esta muy caro, los sueldos son",PODER_ADQUISITIVO,reclassified_otros
+los politicos y jueces y las grandes especuladores,POLITICA,original_training
+el presidente,POLITICA,original_training
+pobreza y salud,POBREZA,original_training
+desocupacion,TRABAJO,original_training
+la falta de educacion,EDUCACION,original_training
+educacion,EDUCACION,original_training
+los politicos,POLITICA,original_training
+el sueldo de los jubilados,OTROS,original_training
+Corrupción,CORRUPCION,reclassified_otros
+tiene que haber mas trabajo y mejor salario para salir adelante y las cosas congeladas,TRABAJO,original_training
+inseguridad,INSEGURIDAD,original_training
+inseguridad,INSEGURIDAD,original_training
+el desempleo,TRABAJO,original_training
+economia y seguridad,INSEGURIDAD,original_training
+inseguridad,INSEGURIDAD,original_training
+la corrupcion,CORRUPCION,original_training
+Pobrez,OTROS,reclassified_otros
+La herencia que nos dejaron los K,OTROS,reclassified_otros
+NO SABE,OTROS,reclassified_otros
+el mismogobierno,POLITICA,original_training
+economia,ECONOMIA,original_training
+conformidad las personas se conforman con lo que tienen no buscan un progreso real,OTROS,original_training
+pobreza,POBREZA,original_training
+La economía,OTROS,reclassified_otros
+la corrupcion,CORRUPCION,original_training
+le ponen mucha traba al gobierno actual,POLITICA,original_training
+La educación,CULTURA_VALORES,reclassified_otros
+la economia,ECONOMIA,original_training
+Economía sueldos bajos,PODER_ADQUISITIVO,reclassified_otros
+la corrupcion anterior,CORRUPCION,original_training
+politica,POLITICA,original_training
+la falta de trabajo,TRABAJO,original_training
+Economía,OTROS,reclassified_otros
+Educación,CULTURA_VALORES,reclassified_otros
+drogas,SERVICIOS,original_training
+inseguridad,INSEGURIDAD,original_training
+la inflacion,INFLACION,original_training
+la inseguridad no se puede salir aca a la calle,INSEGURIDAD,original_training
+"La economía, como se va acomodando todo",OTROS,reclassified_otros
+la politica argentina,POLITICA,original_training
+falta de nacionalismo,POLITICA,original_training
+la economia,ECONOMIA,original_training
+Economía,OTROS,reclassified_otros
+el presidente,POLITICA,original_training
+economia,ECONOMIA,original_training
+La plata,PODER_ADQUISITIVO,reclassified_otros
+El rumbo por dónde dirigen la economía que nos aplasta atodos y especialmente a los jubilados,OTROS,reclassified_otros
+la seguridad hay mas robos y mas violencia,INSEGURIDAD,original_training
+La corrupción,CORRUPCION,reclassified_otros
+la inflacion,INFLACION,original_training
+Los aumentos,OTROS,reclassified_otros
+inflacion,INFLACION,original_training
+gobiernos,POLITICA,original_training
+Económico y cultural,CULTURA_VALORES,reclassified_otros
+economia,ECONOMIA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+Corrupción,CORRUPCION,reclassified_otros
+Poco dinero,PODER_ADQUISITIVO,reclassified_otros
+gobierno,POLITICA,original_training
+economia,ECONOMIA,original_training
+la falta de trabajo,TRABAJO,original_training
+Inseguriaf,OTROS,reclassified_otros
+los politicos,POLITICA,original_training
+Corrupción,CORRUPCION,reclassified_otros
+corrupcion,CORRUPCION,original_training
+Economía,OTROS,reclassified_otros
+mucha corrupcion,CORRUPCION,original_training
+inseguridad,INSEGURIDAD,original_training
+inflacion,INFLACION,original_training
+inflacion,INFLACION,original_training
+el presidente sueldos,POLITICA,original_training
+inflacion,INFLACION,original_training
+la corrupcion,CORRUPCION,original_training
+La corrupción,CORRUPCION,reclassified_otros
+educacion y economicos,EDUCACION,original_training
+inflacion,INFLACION,original_training
+falta de trabajo,TRABAJO,original_training
+los politicos,POLITICA,original_training
+Que no alcanza el sueldo.,PODER_ADQUISITIVO,reclassified_otros
+corrupcion,CORRUPCION,original_training
+la economia la inseguridad el abandono de los sectores vulnerables un estado presente y esta entregando nuestro pais,INSEGURIDAD,original_training
+la falta de puestos de trabajo,TRABAJO,original_training
+economia,ECONOMIA,original_training
+"Económico,,sueldos..",PODER_ADQUISITIVO,reclassified_otros
+Corrupción k,CORRUPCION,reclassified_otros
+economico,ECONOMIA,original_training
+la economia y el trabajo,TRABAJO,original_training
+La economía,OTROS,reclassified_otros
+la educacion,EDUCACION,original_training
+inseguridad,INSEGURIDAD,original_training
+trabajo que falta para todos,TRABAJO,original_training
+Los despidos,OTROS,reclassified_otros
+la economia,ECONOMIA,original_training
+Egoismo,OTROS,reclassified_otros
+que mientan con la inflacion,INFLACION,original_training
+La educación,CULTURA_VALORES,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+la inseguridad,INSEGURIDAD,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+t,OTROS,reclassified_otros
+economia,ECONOMIA,original_training
+inflacion,INFLACION,original_training
+La corrupción,CORRUPCION,reclassified_otros
+corrupcion politica,CORRUPCION,original_training
+politicos,POLITICA,original_training
+economico,ECONOMIA,original_training
+la corrupcion,CORRUPCION,original_training
+falta de inclusion social y falta de trabajo,TRABAJO,original_training
+presidente,POLITICA,original_training
+economia,ECONOMIA,original_training
+falta de trabajo,TRABAJO,original_training
+la corrupcion,CORRUPCION,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+el presidente,POLITICA,original_training
+la economia,ECONOMIA,original_training
+el presidente,POLITICA,original_training
+falta de inversiones con dolares,OTROS,reclassified_otros
+inseguridad pobreza desempleo politicos,INSEGURIDAD,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+inflacion,INFLACION,original_training
+economia,ECONOMIA,original_training
+los politicos,POLITICA,original_training
+Corrupción,CORRUPCION,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+Todo lo que se robaron,CORRUPCION,reclassified_otros
+los anteriores politicos,POLITICA,original_training
+los politicos,POLITICA,original_training
+Corrupción,CORRUPCION,reclassified_otros
+trabajo,TRABAJO,original_training
+la inseguridad,INSEGURIDAD,original_training
+nuevo gobierno,POLITICA,original_training
+corrupcion,CORRUPCION,original_training
+La economía,OTROS,reclassified_otros
+economia,ECONOMIA,original_training
+la politica,POLITICA,original_training
+corrupcion,CORRUPCION,original_training
+inseguridad,INSEGURIDAD,original_training
+falta de trabajo y sueldos bajos,TRABAJO,original_training
+los diputados que son mayoria en el congreso y no dejan avanzar a la argentina,POLITICA,original_training
+los politicos,POLITICA,original_training
+trabajo,TRABAJO,original_training
+no sabe,OTROS,original_training
+muchos robos delincuenciia,INSEGURIDAD,original_training
+Corrupción de los políticos,CORRUPCION,reclassified_otros
+la falta de trabajo,TRABAJO,original_training
+inseguridad,INSEGURIDAD,original_training
+lo economico,ECONOMIA,original_training
+la falta de trabajo,TRABAJO,original_training
+Económicos,PODER_ADQUISITIVO,reclassified_otros
+necesitamos creer en un gobierno inversiones y consumo,POLITICA,original_training
+los politicos,POLITICA,original_training
+La economía (los sueldos bajos),PODER_ADQUISITIVO,reclassified_otros
+la falta de empleo en blanco para profesionales con experiencia nula que se insertan en el mercado,TRABAJO,original_training
+inseguridad,INSEGURIDAD,original_training
+los politicos,POLITICA,original_training
+economico,ECONOMIA,original_training
+gente,OTROS,reclassified_otros
+la corrupcion nadie va preso,CORRUPCION,original_training
+el aumento de precios,INFLACION,original_training
+Bajos sueldos,PODER_ADQUISITIVO,reclassified_otros
+corrupcion,CORRUPCION,original_training
+el gobierno,POLITICA,original_training
+el kinerismo,OTROS,reclassified_otros
+desempleo,TRABAJO,original_training
+inseguridad,INSEGURIDAD,original_training
+corrupcion,CORRUPCION,original_training
+pobreza,POBREZA,original_training
+la inflacion,INFLACION,original_training
+La política,OTROS,reclassified_otros
+el senor milei,POLITICA,original_training
+seguridad,INSEGURIDAD,original_training
+economia,ECONOMIA,original_training
+no hay empleos no hay proyectos de trabajo,TRABAJO,original_training
+falta de trabajo,TRABAJO,original_training
+El dinero,PODER_ADQUISITIVO,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+Los aumentos,OTROS,reclassified_otros
+las personas que viven del empleo publico,TRABAJO,original_training
+falta de empleo,TRABAJO,original_training
+drogas e inseguridad,INSEGURIDAD,original_training
+que subieron mucho los impuestos,CORRUPCION,reclassified_otros
+sueldos,OTROS,original_training
+el poder adquisitivo,PODER_ADQUISITIVO,reclassified_otros
+siguen dando planes en vez de generar trabajo,TRABAJO,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+desocupacion,TRABAJO,original_training
+inflacion,INFLACION,original_training
+gobierno nacional,POLITICA,original_training
+La ignorancia,CULTURA_VALORES,reclassified_otros
+la economia,ECONOMIA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+La corrupción,CORRUPCION,reclassified_otros
+Corrupción,CORRUPCION,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+robos,INSEGURIDAD,original_training
+suba de precios,INFLACION,original_training
+que no cambia la situacion los presidentes,POLITICA,original_training
+la pobreza,POBREZA,original_training
+Corrupción,CORRUPCION,reclassified_otros
+falta trabajo,TRABAJO,original_training
+la politica de la casta,POLITICA,original_training
+la corrupcion,CORRUPCION,original_training
+Falta de dinero,PODER_ADQUISITIVO,reclassified_otros
+la falta de trabajo,TRABAJO,original_training
+la inflacion,INFLACION,original_training
+los jubilados y le pagan poco a los maestros,EDUCACION,original_training
+la pobreza,POBREZA,original_training
+la ambicion politica,POLITICA,original_training
+Delicuencia,OTROS,reclassified_otros
+Económico,PODER_ADQUISITIVO,reclassified_otros
+No sabe,OTROS,reclassified_otros
+laboral,TRABAJO,original_training
+La inflación,OTROS,reclassified_otros
+la economia,ECONOMIA,original_training
+corrupcion,CORRUPCION,original_training
+economia,ECONOMIA,original_training
+que le sacan plata a sectores esenciales,PODER_ADQUISITIVO,reclassified_otros
+economia,ECONOMIA,original_training
+los k,OTROS,original_training
+los politicos,POLITICA,original_training
+Economía,OTROS,reclassified_otros
+1ero presidente 2do el gobierno local no tiene opc,POLITICA,original_training
+falta de trabajo,TRABAJO,original_training
+no hay fuente de trabajo,TRABAJO,original_training
+no hay trabajo,TRABAJO,original_training
+falta trabajo,TRABAJO,original_training
+la economia y la poca empatia de la gente con poder,ECONOMIA,original_training
+inseguridad,INSEGURIDAD,original_training
+economico,ECONOMIA,original_training
+Sueldos,PODER_ADQUISITIVO,reclassified_otros
+el desempleo,TRABAJO,original_training
+ue no se llega con la plata a fin de mes,PODER_ADQUISITIVO,reclassified_otros
+Los políticos roban,CORRUPCION,reclassified_otros
+la inseguridad,INSEGURIDAD,original_training
+el gobierno,POLITICA,original_training
+mucha corrupcion,CORRUPCION,original_training
+la corrupcion,CORRUPCION,original_training
+Los jubilados,OTROS,reclassified_otros
+la economia,ECONOMIA,original_training
+falta de trabajo,TRABAJO,original_training
+Todo lo que es social,OTROS,reclassified_otros
+economia falta de trabajo,TRABAJO,original_training
+desocupacion,TRABAJO,original_training
+trabajo,TRABAJO,original_training
+falta de trabajo,TRABAJO,original_training
+la corrupcion,CORRUPCION,original_training
+es la descriminacion del nuvo presidente con la gente de perfil bajo no se da cuenta con subas de los impustos y nada de subas de sueldos esta matando de hambre la gente,POLITICA,original_training
+Corrupción,CORRUPCION,reclassified_otros
+muchos de los politicos que nos gobiernan,POLITICA,original_training
+los precios,INFLACION,original_training
+Educación,CULTURA_VALORES,reclassified_otros
+los políticos,OTROS,reclassified_otros
+La corrupción,CORRUPCION,reclassified_otros
+salud falta de empleo,TRABAJO,original_training
+educacion,EDUCACION,original_training
+la economia,ECONOMIA,original_training
+los malos politicos,POLITICA,original_training
+los precios la inflacion,INFLACION,original_training
+corrupcion,CORRUPCION,original_training
+la educacion,EDUCACION,original_training
+Desigualdad social,OTROS,reclassified_otros
+faltan empleos,TRABAJO,original_training
+Los salarios bajos,PODER_ADQUISITIVO,reclassified_otros
+las decisiones del gobierno de milei,POLITICA,original_training
+Inflación,OTROS,reclassified_otros
+la economia la presidencia,ECONOMIA,original_training
+la gente que solo quiere ser mantenida por el estado y los politicos ladrones que se roban todo el dinero del pais y se endeuda con la plata del pais,INSEGURIDAD,original_training
+seguridad educacion y trabajo y hospitales,SALUD,original_training
+no hay trabajo,TRABAJO,original_training
+economia,ECONOMIA,original_training
+la corrupcion,CORRUPCION,original_training
+La economía.que no alcanza sueldo,PODER_ADQUISITIVO,reclassified_otros
+mucha gente que no trabaja,OTROS,original_training
+presidente,POLITICA,original_training
+la falta de trabajo,TRABAJO,original_training
+los sueldos bajos,OTROS,original_training
+economico,ECONOMIA,original_training
+corrupcion,CORRUPCION,original_training
+Economía,OTROS,reclassified_otros
+las escuelas,EDUCACION,original_training
+inseguridad,INSEGURIDAD,original_training
+los politicos,POLITICA,original_training
+la inseguridad los robos hay muchos arrebatos,INSEGURIDAD,original_training
+inflacion,INFLACION,original_training
+falta de fuentes de trabajo,TRABAJO,original_training
+la economia,ECONOMIA,original_training
+corrupcion,CORRUPCION,original_training
+el de no que no hay trabajo,TRABAJO,original_training
+milei,POLITICA,original_training
+Los ciudadanos,OTROS,reclassified_otros
+el gobierno los jubilados,POLITICA,original_training
+el desamparo del gobierno,POLITICA,original_training
+la poca credibilidad mucha corrupcion,CORRUPCION,original_training
+la casta politica,POLITICA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+Corrupción,CORRUPCION,reclassified_otros
+economia,ECONOMIA,original_training
+inseguridad,INSEGURIDAD,original_training
+los politicos,POLITICA,original_training
+Sueldos bajos,PODER_ADQUISITIVO,reclassified_otros
+economico,ECONOMIA,original_training
+Falta de inversión,OTROS,reclassified_otros
+La educación,CULTURA_VALORES,reclassified_otros
+que pagan poco en trabajos en blanco,TRABAJO,original_training
+sueldos bajos en educacion y salud,SALUD,original_training
+inseguridad,INSEGURIDAD,original_training
+jubilaciones de hambre,POBREZA,original_training
+falta de educación,CULTURA_VALORES,reclassified_otros
+economico,ECONOMIA,original_training
+desocupacion,TRABAJO,original_training
+La inflación mes a mes suben las cosas y el salario no alcanza,PODER_ADQUISITIVO,reclassified_otros
+economia,ECONOMIA,original_training
+economico,ECONOMIA,original_training
+la economia,ECONOMIA,original_training
+inseguridad,INSEGURIDAD,original_training
+inseguridad,INSEGURIDAD,original_training
+es dificil conseguir trabajo,TRABAJO,original_training
+los politicos,POLITICA,original_training
+estamos pagando nosotros los ke laburando dia a si,OTROS,original_training
+la inseguridad,INSEGURIDAD,original_training
+el gobierno como esta todo mal,POLITICA,original_training
+la inflacion no alcanza la plata,INFLACION,original_training
+desocupacion,TRABAJO,original_training
+La economía,OTROS,reclassified_otros
+no funcionan los pilares de la sociedad educacion,EDUCACION,original_training
+La educación,CULTURA_VALORES,reclassified_otros
+la corrupcion,CORRUPCION,original_training
+la pobreza,POBREZA,original_training
+falta de trabajo,TRABAJO,original_training
+la inseguridad,INSEGURIDAD,original_training
+trabajo,TRABAJO,original_training
+la politica,POLITICA,original_training
+sueldos bajisismos,PODER_ADQUISITIVO,reclassified_otros
+falta de trabajo,TRABAJO,original_training
+economico,ECONOMIA,original_training
+la inflacion,INFLACION,original_training
+inseguridad,INSEGURIDAD,original_training
+economia,ECONOMIA,original_training
+la inseguridad,INSEGURIDAD,original_training
+pobreza,POBREZA,original_training
+El endeudamiento,OTROS,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+educacion,EDUCACION,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+la insercion laboral de los jovenes,TRABAJO,original_training
+Inflación,OTROS,reclassified_otros
+los politicos,POLITICA,original_training
+la inflacion,INFLACION,original_training
+la politica en general,POLITICA,original_training
+la inflacion y la desocupacion,TRABAJO,original_training
+la violencia la falta de empatia la corrupcion politica,CORRUPCION,original_training
+el presidente,POLITICA,original_training
+falta de responsabilidad y empatia con los que menos tienen de parte de los politicos,POLITICA,original_training
+la economia la corrupcion la educacion,EDUCACION,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+la economia por eso cada vez mas pobreza,POBREZA,original_training
+educacion,EDUCACION,original_training
+la delincuencia,INSEGURIDAD,original_training
+Corrupción,CORRUPCION,reclassified_otros
+la politica,POLITICA,original_training
+la economia el trabajo,TRABAJO,original_training
+la corrupcion,CORRUPCION,original_training
+estado ausente,OTROS,reclassified_otros
+falta de trabajo,TRABAJO,original_training
+el presidente y la economia,ECONOMIA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+corrupcion,CORRUPCION,original_training
+La canasta básica quedó lejos,OTROS,reclassified_otros
+la falta de trabajo,TRABAJO,original_training
+inflacion,INFLACION,original_training
+Aumentos,OTROS,reclassified_otros
+Educación,CULTURA_VALORES,reclassified_otros
+economia,ECONOMIA,original_training
+inseguridad,INSEGURIDAD,original_training
+economico,ECONOMIA,original_training
+inseguridad,INSEGURIDAD,original_training
+economia,ECONOMIA,original_training
+la inseguridad,INSEGURIDAD,original_training
+Ns,OTROS,reclassified_otros
+insegurida,OTROS,original_training
+la economia,ECONOMIA,original_training
+la inflacion,INFLACION,original_training
+el gobierno nacional,POLITICA,original_training
+partidos politicos q no se poden de acuerdo,POLITICA,original_training
+desempleo,TRABAJO,original_training
+corrupcion,CORRUPCION,original_training
+pobreza,POBREZA,original_training
+la corrupcion la seguridad infraestructura,INSEGURIDAD,original_training
+inseguridad,INSEGURIDAD,original_training
+los planes sociales,OTROS,reclassified_otros
+el estado de los hospitales,SALUD,original_training
+falta de trabajo,TRABAJO,original_training
+los argentinos,OTROS,original_training
+La economía,OTROS,reclassified_otros
+la corrupcion,CORRUPCION,original_training
+la falta de educacion general,EDUCACION,original_training
+economia,ECONOMIA,original_training
+economico no hay control de precios ni a las instituciones se roba mucho,ECONOMIA,original_training
+inseguridad,INSEGURIDAD,original_training
+economia,ECONOMIA,original_training
+Ka inflación,OTROS,reclassified_otros
+que no hay seguridad,INSEGURIDAD,original_training
+La cultura,CULTURA_VALORES,reclassified_otros
+la clase politica,POLITICA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+la pobreza,POBREZA,original_training
+la economia,ECONOMIA,original_training
+los politicos,POLITICA,original_training
+corrupcion,CORRUPCION,original_training
+Las políticas económicas,OTROS,reclassified_otros
+seguridad,INSEGURIDAD,original_training
+Los políticos que roban,CORRUPCION,reclassified_otros
+Droga,OTROS,reclassified_otros
+precios caros,INFLACION,original_training
+economia,ECONOMIA,original_training
+Justicia,CORRUPCION,reclassified_otros
+Que se roban el dinero los funcionarios,CORRUPCION,reclassified_otros
+el atraso de los sueldos comparados con la inflacion,INFLACION,original_training
+la inflacion y la desocupacion,TRABAJO,original_training
+La educación,CULTURA_VALORES,reclassified_otros
+la economia,ECONOMIA,original_training
+inseguridad,INSEGURIDAD,original_training
+falta de trabajo,TRABAJO,original_training
+corrupcion,CORRUPCION,original_training
+la inseguridad,INSEGURIDAD,original_training
+inflacion,INFLACION,original_training
+inflacion,INFLACION,original_training
+Corrupción,CORRUPCION,reclassified_otros
+la salud y la educacion es un desastre,EDUCACION,original_training
+la economia,ECONOMIA,original_training
+economico,ECONOMIA,original_training
+los aumentos servicios,SERVICIOS,original_training
+"Sueldos, sobre todo los de los docentes",PODER_ADQUISITIVO,reclassified_otros
+La plata que no alcanza,PODER_ADQUISITIVO,reclassified_otros
+sueldo no alcanza inflacion,INFLACION,original_training
+inseguridad,INSEGURIDAD,original_training
+inflacion,INFLACION,original_training
+los pobres que no tienen para comer,POBREZA,original_training
+cultural y economico en laboral,TRABAJO,original_training
+la falta de trabajo,TRABAJO,original_training
+los politicos,POLITICA,original_training
+Económico,PODER_ADQUISITIVO,reclassified_otros
+el presidente,POLITICA,original_training
+los gastos de los gobernantes,SERVICIOS,original_training
+no hay trabajo,TRABAJO,original_training
+la seguridad,INSEGURIDAD,original_training
+la inflacion,INFLACION,original_training
+La economía,OTROS,reclassified_otros
+Económico,PODER_ADQUISITIVO,reclassified_otros
+economico y trabajo no hay,ECONOMIA,original_training
+la educacion,EDUCACION,original_training
+NS,OTROS,reclassified_otros
+La falta de plan económico,PODER_ADQUISITIVO,reclassified_otros
+la inflacion,INFLACION,original_training
+No alcanza la plata,PODER_ADQUISITIVO,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+el fanatismo de algunos grupos politicos que no dejan gobernar,POLITICA,original_training
+gobierno mas corrupto,POLITICA,original_training
+precios,INFLACION,original_training
+pobreza infla,POBREZA,original_training
+la corrupcion y el choreo de anos anteriores las cuales las padecemos este tiempo,CORRUPCION,original_training
+mucha inflacion poco trabajo,TRABAJO,original_training
+la cultura y el egocentrismo,CULTURA_VALORES,reclassified_otros
+economia,ECONOMIA,original_training
+la pobreza,POBREZA,original_training
+La locura de los que gobiernan,OTROS,reclassified_otros
+la politica de este gobierno,POLITICA,original_training
+corrupcion,CORRUPCION,original_training
+Economía,OTROS,reclassified_otros
+inseguridad,INSEGURIDAD,original_training
+economia,ECONOMIA,original_training
+la economia,ECONOMIA,original_training
+la economia,ECONOMIA,original_training
+la inflacion,INFLACION,original_training
+la falta de trabajo,TRABAJO,original_training
+inseguridad,INSEGURIDAD,original_training
+Todo,OTROS,reclassified_otros
+politicos corruptos,POLITICA,original_training
+la economia,ECONOMIA,original_training
+A económico,PODER_ADQUISITIVO,reclassified_otros
+desempleo economia,TRABAJO,original_training
+no se ocupan de los mas vulnerables,OTROS,original_training
+inseguridad,INSEGURIDAD,original_training
+trabajo,TRABAJO,original_training
+no hay obras piblicas,OTROS,original_training
+Lo económico,PODER_ADQUISITIVO,reclassified_otros
+Económico,PODER_ADQUISITIVO,reclassified_otros
+el desempleo los sueldos no aumentan los altos impuestos,TRABAJO,original_training
+la corrupcion,CORRUPCION,original_training
+pobreza,POBREZA,original_training
+economia,ECONOMIA,original_training
+las negociaciones del presidente,POLITICA,original_training
+Economía,OTROS,reclassified_otros
+la pobreza,POBREZA,original_training
+Los vagos,CORRUPCION,reclassified_otros
+seguridad,INSEGURIDAD,original_training
+inseguridad,INSEGURIDAD,original_training
+los politicos corruptos,CORRUPCION,original_training
+el economico,ECONOMIA,original_training
+vagos que no trabajan y las asignaciones a los que no trabajan,OTROS,original_training
+educacion,EDUCACION,original_training
+economico y salud,ECONOMIA,original_training
+la inseguridad,INSEGURIDAD,original_training
+la inseguridad,INSEGURIDAD,original_training
+La distribución de la riqueza,OTROS,reclassified_otros
+los aumentos de precios,INFLACION,original_training
+inseguridad,INSEGURIDAD,original_training
+la corrupcion,CORRUPCION,original_training
+la inflacion,INFLACION,original_training
+bajos salarios e inflacion,INFLACION,original_training
+Los políticos,OTROS,reclassified_otros
+falta trabajo,TRABAJO,original_training
+economia,ECONOMIA,original_training
+La ignorancia de la gente,CULTURA_VALORES,reclassified_otros
+el presidente,POLITICA,original_training
+la inseguridad,INSEGURIDAD,original_training
+el presidente ministros,POLITICA,original_training
+Educación,CULTURA_VALORES,reclassified_otros
+politicos,POLITICA,original_training
+El prible es la gente que viven de los planes,OTROS,reclassified_otros
+la economia,ECONOMIA,original_training
+inflacion,INFLACION,original_training
+desocupacion,TRABAJO,original_training
+universidad que la quieren hacer privados,EDUCACION,original_training
+el aumento de los servicios desmesurado,SERVICIOS,original_training
+la pobreza,POBREZA,original_training
+fanta de trabajo,TRABAJO,original_training
+Educación,CULTURA_VALORES,reclassified_otros
+la inflacion,INFLACION,original_training
+los politicos,POLITICA,original_training
+corrupcion,CORRUPCION,original_training
+educacion,EDUCACION,original_training
+la inflacion,INFLACION,original_training
+los politicos corruptos,CORRUPCION,original_training
+la delincuencia,INSEGURIDAD,original_training
+Nose,OTROS,reclassified_otros
+la pobreza,POBREZA,original_training
+La corrupción,CORRUPCION,reclassified_otros
+la corrupcion,CORRUPCION,original_training
+La falta de educación,CULTURA_VALORES,reclassified_otros
+la educacion con la educacion solucionamos todo,EDUCACION,original_training
+Salarios bajos,PODER_ADQUISITIVO,reclassified_otros
+la juventud no tiene idea votaron a quien no sabey desempleo,TRABAJO,original_training
+la economia,ECONOMIA,original_training
+La gente,OTROS,reclassified_otros
+inflacion,INFLACION,original_training
+Bajos salarios,PODER_ADQUISITIVO,reclassified_otros
+economia,ECONOMIA,original_training
+Economía,OTROS,reclassified_otros
+seguridad,INSEGURIDAD,original_training
+la economia,ECONOMIA,original_training
+HABITANE,OTROS,reclassified_otros
+Aumento,OTROS,reclassified_otros
+la inseguridad,INSEGURIDAD,original_training
+Economía,OTROS,reclassified_otros
+la economia,ECONOMIA,original_training
+delicuencia,OTROS,reclassified_otros
+las deudas de los anteriores gobiernos,POLITICA,original_training
+economia,ECONOMIA,original_training
+mucha pobreza,POBREZA,original_training
+Salarios y jubilación,PODER_ADQUISITIVO,reclassified_otros
+la desocupacion,TRABAJO,original_training
+la economia,ECONOMIA,original_training
+economía,OTROS,reclassified_otros
+na economia los precios altos,ECONOMIA,original_training
+Corrupción,CORRUPCION,reclassified_otros
+inflacion,INFLACION,original_training
+pobreza,POBREZA,original_training
+trabajo,TRABAJO,original_training
+corrupcion,CORRUPCION,original_training
+el presidente milei,POLITICA,original_training
+corrupcion,CORRUPCION,original_training
+el presidente,POLITICA,original_training

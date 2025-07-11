@@ -1,0 +1,82 @@
+{
+  "total_samples": 15013,
+  "num_categories": 13,
+  "categories": [
+    "CORRUPCION",
+    "CULTURA_VALORES",
+    "ECONOMIA",
+    "EDUCACION",
+    "INFLACION",
+    "INSEGURIDAD",
+    "OTROS",
+    "POBREZA",
+    "PODER_ADQUISITIVO",
+    "POLITICA",
+    "SALUD",
+    "SERVICIOS",
+    "TRABAJO"
+  ],
+  "train_samples": 12010,
+  "val_samples": 1501,
+  "test_samples": 1502,
+  "category_distribution": {
+    "OTROS": 2000,
+    "CORRUPCION": 2000,
+    "ECONOMIA": 1750,
+    "POLITICA": 1750,
+    "INSEGURIDAD": 1750,
+    "TRABAJO": 1706,
+    "PODER_ADQUISITIVO": 1317,
+    "INFLACION": 1093,
+    "POBREZA": 571,
+    "CULTURA_VALORES": 471,
+    "EDUCACION": 395,
+    "SALUD": 121,
+    "SERVICIOS": 89
+  },
+  "keyword_rules_used": {
+    "CORRUPCION": [
+      "corrupci\u00f3n",
+      "corrupto",
+      "corruptos",
+      "chorros",
+      "ladrones",
+      "justicia",
+      "impunidad",
+      "impuestos",
+      "gobernantes",
+      "malos pol\u00edticos",
+      "pol\u00edticos chorros",
+      "roban",
+      "robaron",
+      "vagos"
+    ],
+    "CULTURA_VALORES": [
+      "educaci\u00f3n",
+      "falta educaci\u00f3n",
+      "cultura",
+      "valores",
+      "educativo",
+      "ense\u00f1anza",
+      "formaci\u00f3n",
+      "ignorancia",
+      "falta cultura"
+    ],
+    "PODER_ADQUISITIVO": [
+      "sueldos",
+      "bajos",
+      "plata",
+      "alcanza",
+      "salario",
+      "salarios",
+      "econ\u00f3mico",
+      "no alcanza",
+      "plata alcanza",
+      "falta plata",
+      "poder adquisitivo",
+      "sueldo bajo",
+      "dinero",
+      "platita"
+    ]
+  }
+}
