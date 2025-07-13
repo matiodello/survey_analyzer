@@ -76,4 +76,4 @@ python main.py --mode evaluate
 ## Notas y Créditos
 - Proyecto desarrollado para experimentos con BERT y análisis de texto en español.
 - Inspirado en prácticas de NLP y clasificación de texto con modelos preentrenados.
-- Contacto: [Tu Nombre o contacto]
+
